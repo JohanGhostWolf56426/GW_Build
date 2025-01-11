@@ -1,0 +1,604 @@
+{
+    "Types": [
+        "ALL",
+        "Camp",
+        "Capital",
+        "Hill",
+        "Local",
+        "Marine",
+        "StrongpointArea",
+        "Village"
+    ],
+    "Locations": [
+        {
+            "Type": "Camp",
+            "Name": "Basecamp Alpha",
+            "Position": [
+                1984.0,
+                0.0,
+                3718.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Basecamp Bravo",
+            "Position": [
+                3668.0,
+                0.0,
+                4909.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Basecamp Charlie",
+            "Position": [
+                2634.0,
+                0.0,
+                2476.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Black Lake Campground",
+            "Position": [
+                6901.0,
+                0.0,
+                3650.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Bussy Farms",
+            "Position": [
+                1787.0,
+                0.0,
+                5124.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Chinook",
+            "Position": [
+                6942.0,
+                0.0,
+                632.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Church Camp",
+            "Position": [
+                8045.0,
+                0.0,
+                6412.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Clallam Bay",
+            "Position": [
+                509.406005859375,
+                0.0,
+                3420.966064453125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Dabbington",
+            "Position": [
+                8310.0,
+                0.0,
+                2998.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Dirtfish Rally School",
+            "Position": [
+                7428.0,
+                0.0,
+                4260.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Drive In Theater",
+            "Position": [
+                3112.0,
+                0.0,
+                6468.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "FOB Alpha",
+            "Position": [
+                228.0,
+                0.0,
+                4969.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Factory",
+            "Position": [
+                8670.0,
+                0.0,
+                8930.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Ferry Dock",
+            "Position": [
+                5550.0,
+                0.0,
+                552.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Fort Flagler",
+            "Position": [
+                9470.0,
+                0.0,
+                9818.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Gig Harbor Airfield",
+            "Position": [
+                6803.0,
+                0.0,
+                1750.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Harvard",
+            "Position": [
+                6237.0,
+                0.0,
+                8219.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Hope Island",
+            "Position": [
+                9439.0,
+                0.0,
+                880.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Hurricane Ridge",
+            "Position": [
+                3753.0,
+                0.0,
+                3057.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Indian Island",
+            "Position": [
+                8262.0,
+                0.0,
+                8150.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Junkyard",
+            "Position": [
+                3366.0,
+                0.0,
+                6177.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "La Push",
+            "Position": [
+                4293.0,
+                0.0,
+                807.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Lumber Mill",
+            "Position": [
+                353.0,
+                0.0,
+                5674.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Manchester Naval Depot",
+            "Position": [
+                3307.0,
+                0.0,
+                1123.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Manhattan Project Reactor B",
+            "Position": [
+                1892.0,
+                0.0,
+                8874.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Marrowstone Island",
+            "Position": [
+                9255.0,
+                0.0,
+                6827.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "McMicken Island",
+            "Position": [
+                9735.0,
+                0.0,
+                2605.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "McNeil Island",
+            "Position": [
+                9223.0,
+                0.0,
+                4751.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Mt Olympus",
+            "Position": [
+                2720.0,
+                0.0,
+                3363.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "National Guard Facility",
+            "Position": [
+                9138.0,
+                0.0,
+                3401.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Nordland",
+            "Position": [
+                9572.0,
+                0.0,
+                8067.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Capital",
+            "Name": "Ocean Shores",
+            "Position": [
+                1552.619140625,
+                0.0,
+                1042.77392578125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Orting",
+            "Position": [
+                5247.0,
+                0.0,
+                5172.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Pedro's Hideaway",
+            "Position": [
+                6509.0,
+                0.0,
+                7184.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Point Monroe",
+            "Position": [
+                8452.0,
+                0.0,
+                856.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Point No Point",
+            "Position": [
+                9013.0,
+                0.0,
+                6236.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Police Academy",
+            "Position": [
+                5360.0,
+                0.0,
+                2322.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Port",
+            "Position": [
+                8068.0,
+                0.0,
+                8936.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Possession Beach",
+            "Position": [
+                9359.0,
+                0.0,
+                2694.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Protection Island",
+            "Position": [
+                9628.0,
+                0.0,
+                1814.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Quail Ridge G.C.",
+            "Position": [
+                387.0,
+                0.0,
+                8434.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Rising Ridge Estates",
+            "Position": [
+                3753.0,
+                0.0,
+                6975.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Sunland",
+            "Position": [
+                6027.0,
+                0.0,
+                9469.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "SweetWater",
+            "Position": [
+                4573.0,
+                0.0,
+                9270.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Trailer Park",
+            "Position": [
+                5072.0,
+                0.0,
+                3946.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Trench 94",
+            "Position": [
+                2833.0,
+                0.0,
+                9216.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Vagabond Army Airfield",
+            "Position": [
+                3522.0,
+                0.0,
+                7982.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Wetlands",
+            "Position": [
+                578.0,
+                0.0,
+                6297.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Windfarm",
+            "Position": [
+                7379.0,
+                0.0,
+                5291.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "pond",
+            "Position": [
+                1221.489990234375,
+                0.0,
+                963.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "ponds",
+            "Position": [
+                3234.0,
+                0.0,
+                2817.0
+            ],
+            "Radius": 4.0
+        }
+    ]
+}
