@@ -1,0 +1,123 @@
+{
+    "version": 122,
+    "_info": "This file was generated using dayzboosterz.com gameplay generator. Visit us today @ dayzboosterz.com",
+    "GeneralData": {
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
+        "disableRespawnDialog": true,
+        "disableRespawnInUnconsciousness": true
+    },
+    "PlayerData": {
+        "disablePersonalLight": true,
+        "spawnGearPresetFiles": [],
+        "StaminaData": {
+            "sprintStaminaModifierErc": 0,
+            "sprintStaminaModifierCro": 0,
+            "staminaWeightLimitThreshold": 60000,
+            "staminaMax": 300,
+            "staminaKgToStaminaPercentPenalty": 0,
+            "staminaMinCap": 0,
+            "sprintSwimmingStaminaModifier": 1,
+            "sprintLadderStaminaModifier": 1,
+            "meleeStaminaModifier": 1,
+            "obstacleTraversalStaminaModifier": 1,
+            "holdBreathStaminaModifier": 1
+        },
+        "ShockHandlingData": {
+            "shockRefillSpeedConscious": 1,
+            "shockRefillSpeedUnconscious": 100,
+            "allowRefillSpeedModifier": true
+        },
+        "MovementData": {
+            "timeToStrafeJog": 0.1,
+            "rotationSpeedJog": 0.3,
+            "timeToSprint": 0.45,
+            "timeToStrafeSprint": 0.3,
+            "rotationSpeedSprint": 0.15,
+            "allowStaminaAffectInertia": true
+        },
+        "DrowningData": {
+            "staminaDepletionSpeed": 0,
+            "healthDepletionSpeed": 0,
+            "shockDepletionSpeed": 0
+        }
+    },
+    "WorldsData": {
+        "lightingConfig": 0,
+        "objectSpawnersArr": [],
+        "environmentMinTemps": [
+            -32,
+            -27,
+            -21,
+            -14,
+            -7,
+            -4,
+            -2,
+            2,
+            -3,
+            -7,
+            -15,
+            -25
+        ],
+        "environmentMaxTemps": [
+            -12,
+            -8,
+            -3,
+            14,
+            2,
+            5,
+            7,
+            11,
+            8,
+            5,
+            2,
+            -8
+        ],
+        "wetnessWeightModifiers": [
+            1,
+            1,
+            1.33,
+            1.66,
+            2
+        ]
+    },
+    "BaseBuildingData": {
+        "HologramData": {
+            "disableIsCollidingBBoxCheck": true,
+            "disableIsCollidingPlayerCheck": true,
+            "disableIsClippingRoofCheck": true,
+            "disableIsBaseViableCheck": true,
+            "disableIsCollidingGPlotCheck": false,
+            "disableIsCollidingAngleCheck": true,
+            "disableIsPlacementPermittedCheck": true,
+            "disableHeightPlacementCheck": true,
+            "disableIsUnderwaterCheck": true,
+            "disableIsInTerrainCheck": true,
+            "disallowedTypesInUnderground": []
+        },
+        "ConstructionData": {
+            "disablePerformRoofCheck": true,
+            "disableIsCollidingCheck": true,
+            "disableDistanceCheck": true
+        }
+    },
+    "UIData": {
+        "use3DMap": true,
+        "HitIndicationData": {
+            "hitDirectionOverrideEnabled": false,
+            "hitDirectionBehaviour": 0,
+            "hitDirectionStyle": 0,
+            "hitDirectionIndicatorColorStr": "",
+            "hitDirectionMaxDuration": 0,
+            "hitDirectionBreakPointRelative": 0,
+            "hitDirectionScatter": 0,
+            "hitIndicationPostProcessEnabled": false
+        }
+    },
+    "MapData": {
+        "ignoreMapOwnership": false,
+        "ignoreNavItemsOwnership": false,
+        "displayPlayerPosition": false,
+        "displayNavInfo": false
+    }
+}
