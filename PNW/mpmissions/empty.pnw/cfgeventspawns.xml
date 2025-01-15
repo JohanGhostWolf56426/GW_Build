@@ -481,4 +481,11 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
+
+	<!-- @GoatTeam6 -->
+    <event name="AnimalGT6Group1" />
+	<event name="AnimalGT6Group2" />
+	<event name="AnimalGT6Group3" />
+	<event name="AnimalGT6Group4" />
+	<event name="AnimalGT6Group5" />
 </eventposdef>

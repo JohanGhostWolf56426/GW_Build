@@ -71,8 +71,8 @@
 		<item name="PainkillerTablets" chance="0.25" />
 		<item name="VitaminBottle" chance="0.25" />
 		<item name="TetracyclineAntibiotics" chance="0.25" />
-<!-- GW Additions -->
-	<!-- InediaInfectedAI -->
+	<!-- GW Additions -->
+		<!-- InediaInfectedAI -->
 		<item name="InediaPain_Tramadol" chance="0.1" />
 		<item name="InediaPain_Vikasol" chance="0.1" />
 		<item name="InediaPain_Calcium" chance="0.1" />
