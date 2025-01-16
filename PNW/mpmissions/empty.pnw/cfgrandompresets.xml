@@ -56,6 +56,31 @@
 				<item name="BakedBeansCan" chance="0.05" />
 				<item name="TacticalBaconCan" chance="0.1" />
 				<item name="Canteen" chance="0.1" />
+				<item name="MRE_Menu1" chance="0.01" />
+				<item name="MRE_Menu2" chance="0.01" />
+				<item name="MRE_Menu3" chance="0.01" />
+				<item name="MRE_Menu4" chance="0.01" />
+				<item name="MRE_Menu5" chance="0.01" />
+				<item name="MRE_Menu6" chance="0.01" />
+				<item name="MRE_Menu7" chance="0.01" />
+				<item name="MRE_Menu8" chance="0.01" />
+				<item name="MRE_Menu9" chance="0.01" />
+				<item name="MRE_Menu10" chance="0.01" />
+				<item name="MRE_Menu11" chance="0.01" />
+				<item name="MRE_Menu12" chance="0.01" />
+				<item name="MRE_Menu13" chance="0.01" />
+				<item name="MRE_Menu14" chance="0.01" />
+				<item name="MRE_Menu15" chance="0.01" />
+				<item name="MRE_Menu16" chance="0.01" />
+				<item name="MRE_Menu17" chance="0.01" />
+				<item name="MRE_Menu18" chance="0.01" />
+				<item name="MRE_Menu19" chance="0.01" />
+				<item name="MRE_Menu20" chance="0.01" />
+				<item name="MRE_Menu21" chance="0.01" />
+				<item name="MRE_Menu22" chance="0.01" />
+				<item name="MRE_Menu23" chance="0.01" />
+				<item name="MRE_Menu24" chance="0.01" />
+				<item name="MRE_CRE" chance="0.01" />
 		</cargo>
 		<cargo chance="0.15" name="toolsHermit">
 				<item name="WeaponCleaningKit" chance="0.10" />
