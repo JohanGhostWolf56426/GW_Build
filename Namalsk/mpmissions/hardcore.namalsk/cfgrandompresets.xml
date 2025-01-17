@@ -17,7 +17,6 @@
 		<item name="SewingKit" chance="0.05" />
 		<item name="LeatherSewingKit" chance="0.05" />
 	</cargo>
-
 	<cargo chance="0.10" name="toolshunting">
 		<item name="HuntingKnife" chance="0.15" />
 		<item name="Matchbox" chance="0.10" />
@@ -30,7 +29,6 @@
 		<item name="SewingKit" chance="0.05" />
 		<item name="LeatherSewingKit" chance="0.05" />
 	</cargo>
-	
 	<cargo chance="0.10" name="toolsmilitary">
 		<item name="CombatKnife" chance="0.15" />
 		<item name="Battery9V" chance="0.15" />
@@ -40,7 +38,6 @@
 		<item name="BandageDressing" chance="0.15" />
 		<item name="Epinephrine" chance="0.15" />
 	</cargo>
-
 	<cargo chance="0.25" name="toolsmedic">
 		<item name="Heatpack" chance="0.13" />
 		<item name="SewingKit" chance="0.10" />
@@ -65,13 +62,12 @@
 		<item name="InediaPain_SurgicalKit" chance="0.1" />
 		<item name="InediaPain_SplintKit" chance="0.1" />
 	</cargo>
-
 	<cargo chance="0.10" name="toolspills">
 		<item name="CharcoalTablets" chance="0.25" />
 		<item name="PainkillerTablets" chance="0.25" />
 		<item name="VitaminBottle" chance="0.25" />
 		<item name="TetracyclineAntibiotics" chance="0.25" />
-	<!-- GW Additions -->
+		<!-- GW Additions -->
 		<!-- InediaInfectedAI -->
 		<item name="InediaPain_Tramadol" chance="0.1" />
 		<item name="InediaPain_Vikasol" chance="0.1" />
@@ -79,7 +75,6 @@
 		<item name="InediaPain_Metoclopramide" chance="0.1" />
 		<item name="InediaPain_Sorbifer" chance="0.1" />
 	</cargo>
-
 	<cargo chance="0.10" name="toolspolice">
 		<item name="BandageDressing" chance="0.10" />
 		<item name="Battery9V" chance="0.10" />
@@ -90,8 +85,7 @@
 		<item name="Handcuffs" chance="0.10" />
 		<item name="HandcuffKeys" chance="0.10" />
 	</cargo>
-
-	<cargo chance="0.10" name="ammocivil">
+	<cargo chance="0.20" name="ammocivil">
 		<item name="Ammo_380" chance="0.15" />
 		<item name="AmmoBox_380_35rnd" chance="0.10" />
 		<item name="Ammo_9x19" chance="0.15" />
@@ -101,7 +95,6 @@
 		<item name="Ammo_12gaSlug" chance="0.15" />
 		<item name="AmmoBox_12gaSlug_10Rnd" chance="0.10" />
 	</cargo>
-
 	<cargo chance="0.10" name="ammopolice">
 		<item name="Ammo_380" chance="0.20" />
 		<item name="AmmoBox_380_35rnd" chance="0.15" />
@@ -110,14 +103,12 @@
 		<item name="Ammo_45ACP" chance="0.20" />
 		<item name="AmmoBox_45acp_25rnd" chance="0.10" />
 	</cargo>
-
-	<cargo chance="0.10" name="ammohunting">
+	<cargo chance="0.20" name="ammohunting">
 		<item name="Ammo_762x39" chance="0.30" />
 		<item name="AmmoBox_762x39_20Rnd" chance="0.20" />
 		<item name="Ammo_762x54" chance="0.30" />
 		<item name="AmmoBox_762x54_20Rnd" chance="0.20" />
 	</cargo>
-
 	<cargo chance="0.10" name="ammomilitary">
 		<item name="Ammo_556x45" chance="0.15" />
 		<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
@@ -130,11 +121,9 @@
 		<item name="Ammo_9x39AP" chance="0.08" />
 		<item name="AmmoBox_9x39AP_20Rnd" chance="0.04" />
 	</cargo>
-
-	<cargo chance="0.10" name="magscivil">
+	<cargo chance="0.20" name="magscivil">
 		<item name="Mag_IJ70_8Rnd" chance="1.00" />
 	</cargo>
-
 	<cargo chance="0.10" name="magspolice">
 		<item name="Mag_CZ75_15Rnd" chance="0.20" />
 		<item name="Mag_MP5_15Rnd" chance="0.20" />
@@ -142,11 +131,9 @@
 		<item name="Mag_CZ61_20Rnd" chance="0.20" />
 		<item name="Mag_UMP_25Rnd" chance="0.20" />
 	</cargo>
-
-	<cargo chance="0.10" name="magshunting">
+	<cargo chance="0.20" name="magshunting">
 		<item name="Mag_CZ527_5rnd" chance="1.00" />
 	</cargo>
-
 	<cargo chance="0.10" name="magsmilitary">
 		<item name="Mag_FNX45_15Rnd" chance="0.20" />
 		<item name="Mag_CMAG_10Rnd" chance="0.20" />
@@ -160,7 +147,6 @@
 		<item name="Mag_VAL_20Rnd" chance="0.025" />
 		<item name="Mag_Vikhr_30Rnd" chance="0.025" />
 	</cargo>
-
 	<!-- gift boxes -->
 	<cargo chance="1.00" name="Gifts_AmmoBoxes">
 		<item name="AmmoBox_380_35rnd" chance="0.10" />
@@ -250,14 +236,12 @@
 		<item name="RadarCap_Black" chance="0.20" />
 		<item name="BeanieHat_Black" chance="0.20" />
 	</cargo>
-
 	<!-- firefighter infected -->
 	<attachments chance="1.00" name="headsFirefighter">
 		<item name="FirefightersHelmet_Red" chance="0.34" />
 		<item name="FirefightersHelmet_White" chance="0.33" />
 		<item name="FirefightersHelmet_Yellow" chance="0.33" />
 	</attachments>
-
 	<!-- police infected -->
 	<attachments chance="1.00" name="headsPolice">
 		<item name="PoliceCap" chance="0.80" />
@@ -266,7 +250,6 @@
 		<item name="ChestHolster" chance="0.70" />
 		<item name="PoliceVest" chance="0.30" />
 	</attachments>
-
 	<!-- police-riot infected -->
 	<attachments chance="1.00" name="headsPoliceriot">
 		<!--<item name="GorkaHelmet_Black" chance="0.60" />-->
@@ -275,7 +258,6 @@
 	<attachments chance="1.00" name="vestsPoliceriot">
 		<item name="PoliceVest" chance="1.00" />
 	</attachments>
-
 	<!-- army infected - NAC -->
 	<attachments chance="0.70" name="headsNAC">
 		<!--<item name="Mich2001Helmet" chance="0.50" />
@@ -318,7 +300,6 @@
 		<item name="PlateCarrierVest_Camo" chance="0.15" />
 		<item name="PlateCarrierVest_Winter" chance="0.05" />
 	</attachments>
-
 	<cargo chance="0.15" name="foodHermit">
 		<item name="TunaCan" chance="0.11" />
 		<item name="SardinesCan" chance="0.11" />

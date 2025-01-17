@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
-    <!-- NAMALSK - WEAPONS - RIFLES -->
+<!-- NAMALSK - WEAPONS - RIFLES -->
     <type name="AK74">
         <attachments chance="1.00">
             <item name="AK74_WoodBttstck" chance="0.33" />
@@ -122,7 +122,7 @@
         </attachments>
     </type>
     <type name="CZ527">
-        <attachments chance="0.30">
+        <attachments chance="0.40">
             <item name="Mag_CZ527_5rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.20">
@@ -130,7 +130,7 @@
         </attachments>
     </type>
     <type name="CZ550">
-        <attachments chance="0.30">
+        <attachments chance="0.40">
             <item name="Mag_CZ550_10rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.20">
@@ -259,7 +259,7 @@
     </type>
     <type name="Repeater" />
     <type name="Ruger1022">
-        <attachments chance="0.30">
+        <attachments chance="0.40">
             <item name="Mag_Ruger1022_15Rnd" chance="0.60" />
             <item name="Mag_Ruger1022_30Rnd" chance="0.40" />
         </attachments>
@@ -389,9 +389,9 @@
             <item name="Mag_SV98_10Rnd" chance="1.00" />
         </attachments>
     </type>
-    <!-- NAMALSK - WEAPONS - PISTOLS -->
+<!-- NAMALSK - WEAPONS - PISTOLS -->
     <type name="Colt1911">
-        <attachments chance="0.80">
+        <attachments chance="0.90">
             <item name="Mag_1911_7Rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.30">
@@ -402,7 +402,7 @@
         </attachments>
     </type>
     <type name="Engraved1911">
-        <attachments chance="0.80">
+        <attachments chance="0.90">
             <item name="Mag_1911_7Rnd" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
@@ -427,7 +427,7 @@
         </attachments>
     </type>
     <type name="Deagle">
-        <attachments chance="0.60">
+        <attachments chance="0.70">
             <item name="Mag_Deagle_9rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.50">
@@ -438,7 +438,7 @@
         </attachments>
     </type>
     <type name="Deagle_Gold">
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="Mag_Deagle_9rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.75">
@@ -479,12 +479,12 @@
     </type>
     <type name="Magnum" />
     <type name="MKII">
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="Mag_MKII_10Rnd" chance="1.00" />
         </attachments>
     </type>
     <type name="MakarovIJ70">
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="Mag_IJ70_8Rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.10">
@@ -492,7 +492,7 @@
         </attachments>
     </type>
     <type name="P1">
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="Mag_P1_8Rnd" chance="1.00" />
         </attachments>
     </type>
@@ -501,46 +501,46 @@
             <item name="PistolOptic" chance="1.00" />
         </attachments>
     </type>
-    <!-- NAMALSK - WEAPONS - EXPLOSIVES -->
-    <!-- none require special care -->
-    <!-- NAMALSK - WEAPONS - MELEE -->
-    <!-- none require special care -->
-    <!-- NAMALSK - AMMO -->
-    <!-- none require special care -->
-    <!-- NAMALSK - AMMO BOXES -->
+<!-- NAMALSK - WEAPONS - EXPLOSIVES -->
+<!-- none require special care -->
+<!-- NAMALSK - WEAPONS - MELEE -->
+<!-- none require special care -->
+<!-- NAMALSK - AMMO -->
+<!-- none require special care -->
+<!-- NAMALSK - AMMO BOXES -->
     <type name="AmmoBox">
-        <cargo chance="0.27">
+        <cargo chance="0.30">
             <item name="Ammo_9x19" chance="1.00" />
         </cargo>
-        <cargo chance="0.27">
+        <cargo chance="0.30">
             <item name="Ammo_380" chance="1.00" />
         </cargo>
-        <cargo chance="0.25">
+        <cargo chance="0.30">
             <item name="Ammo_12gaPellets" chance="1.00" />
         </cargo>
-        <cargo chance="0.25">
+        <cargo chance="0.30">
             <item name="Ammo_12gaSlug" chance="1.00" />
         </cargo>
-        <cargo chance="0.22">
+        <cargo chance="0.30">
             <item name="Ammo_762x39" chance="1.00" />
         </cargo>
-        <cargo chance="0.20">
+        <cargo chance="0.30">
             <item name="Ammo_45ACP" chance="1.00" />
         </cargo>
-        <cargo chance="0.15">
+        <cargo chance="0.20">
             <item name="Ammo_762x54" chance="1.00" />
         </cargo>
         <cargo chance="0.10">
             <item name="Ammo_556x45" chance="1.00" />
         </cargo>
     </type>
-    <!-- NAMALSK - MAGS -->
-    <!-- none require special care -->
-    <!-- NAMALSK - WEAPON ATTS -->
-    <!-- none require special care -->
-    <!-- NAMALSK - FOOD N DRINKS -->
-    <!-- none require special care -->
-    <!-- NAMALSK - MEDICAL ITEMS -->
+<!-- NAMALSK - MAGS -->
+<!-- none require special care -->
+<!-- NAMALSK - WEAPON ATTS -->
+<!-- none require special care -->
+<!-- NAMALSK - FOOD N DRINKS -->
+<!-- none require special care -->
+<!-- NAMALSK - MEDICAL ITEMS -->
     <type name="FirstAidKit">
         <cargo chance="1.00">
             <item name="BandageDressing" chance="1.00" />
@@ -559,7 +559,7 @@
             <item name="Epinephrine" chance="1.00" />
         </cargo>
     </type>
-    <!-- NAMALSK - MISC ITEMS -->
+<!-- NAMALSK - MISC ITEMS -->
     <type name="WaterproofBag_Yellow">
         <cargo preset="toolsgeneral" />
     </type>
@@ -579,7 +579,7 @@
             <item name="Hook" chance="1.00" />
         </attachments>
     </type>
-    <!-- NAMALSK - CLOTHES - TOPS -->
+<!-- NAMALSK - CLOTHES - TOPS -->
     <type name="GorkaEJacket_Summer">
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
@@ -1039,9 +1039,7 @@
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
     </type>
-
-
-    <!-- NAMALSK - CLOTHES - PANTS -->
+<!-- NAMALSK - CLOTHES - PANTS -->
     <type name="CivilianBelt">
         <attachments chance="0.15">
             <item name="PlateCarrierHolster" chance="1.00" />
@@ -1293,7 +1291,7 @@
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
     </type>
-    <!-- NAMALSK - CLOTHES - VESTS -->
+<!-- NAMALSK - CLOTHES - VESTS -->
     <type name="PlateCarrierVest">
         <attachments chance="0.30">
             <item name="PlateCarrierHolster" chance="1.00" />
@@ -1465,7 +1463,7 @@
     </type>
     <type name="dzn_platecarrierholster_nac" />
     <type name="dzn_platecarrierpouches_nac" />
-    <!-- NAMALSK - CLOTHES - BAGS -->
+<!-- NAMALSK - CLOTHES - BAGS -->
     <type name="Slingbag_Black">
         <cargo preset="toolsgeneral" />
     </type>
@@ -1655,11 +1653,11 @@
         <cargo preset="ammomilitary" />
         <cargo preset="magsmilitary" />
     </type>
-    <!-- NAMALSK - CLOTHES - GLASSES -->
-    <!-- none require special care -->
-    <!-- NAMALSK - CLOTHES - GLOVES -->
-    <!-- none require special care -->
-    <!-- NAMALSK - CLOTHES - HEADGEAR -->
+<!-- NAMALSK - CLOTHES - GLASSES -->
+<!-- none require special care -->
+<!-- NAMALSK - CLOTHES - GLOVES -->
+<!-- none require special care -->
+<!-- NAMALSK - CLOTHES - HEADGEAR -->
     <type name="Mich2001Helmet">
         <attachments chance="0.02">
             <item name="NVGoggles" chance="1.00" />
@@ -1705,7 +1703,7 @@
             <item name="Hook" chance="1.00" />
         </attachments>
     </type>
-    <!-- NAMALSK - CLOTHES - MASKS -->
+<!-- NAMALSK - CLOTHES - MASKS -->
     <type name="AirborneMask">
         <attachments chance="0.45">
             <item name="GasMask_Filter" chance="1.00" />
@@ -1716,10 +1714,10 @@
             <item name="GasMask_Filter" chance="1.00" />
         </attachments>
     </type>
-    <!-- NAMALSK - CLOTHES - SHOES -->
-    <!-- none require special care -->
-    <!-- NAMALSK - SPECIFIC DMG CASES -->
-    <!-- shared -->
+<!-- NAMALSK - CLOTHES - SHOES -->
+<!-- none require special care -->
+<!-- NAMALSK - SPECIFIC DMG CASES -->
+<!-- shared -->
     <type name="M4_Suppressor">
         <damage min="0.0" max="0.0" />
     </type>
@@ -1837,7 +1835,7 @@
     <type name="dzn_lehs_battery">
         <damage min="0.0" max="0.0" />
     </type>
-    <!-- NAMALSK - CONTAINERS - GIFT BOXES -->
+<!-- NAMALSK - CONTAINERS - GIFT BOXES -->
     <type name="GiftBox_Small_1">
         <cargo preset="Gifts_AmmoBoxes" />
         <cargo preset="Gifts_SmallMags" />
@@ -1892,7 +1890,8 @@
         <cargo preset="Gifts_MedMags" />
         <cargo preset="Gifts_BigModules" />
     </type>
-    <!-- NAMALSK - INFECTED -->
+<!---->
+<!-- NAMALSK - INFECTED -->
     <type name="ZmbF_BlueCollarFat_Blue">
         <cargo preset="toolsgeneral" />
     </type>
@@ -2433,7 +2432,7 @@
             <item name="SantasHat" chance="1.00" />
         </attachments>
     </type>
-    <!-- NAMALSK - VEHICLES -->
+<!-- NAMALSK - VEHICLES -->
     <type name="Boat_01_Black">
         <attachments chance="0.30">
             <item name="SparkPlug" chance="1.00" />
