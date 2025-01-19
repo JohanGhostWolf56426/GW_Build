@@ -10,6 +10,7 @@ Mods Needed:
 @InediaInfectedAI - 3031784065
 @Survivor Animations - 2918418331
 @DayZ-Bicycle - 2971190303
+@Heat Guard - 3350862329
 
 The mod "@GW_Server_Tweaks" can be swapped out for "@BuilderItems; @GoatTeam6"
 
