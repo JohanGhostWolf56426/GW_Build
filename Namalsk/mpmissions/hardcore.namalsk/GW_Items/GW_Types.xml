@@ -714,4 +714,181 @@
 		<tag name="shelves"/>
 		<usage name="Military"/>
 	</type>
+<!-- Heat Guard -->
+	<type name="XS_Heatpack">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>1000</restock>
+    <quantmin>25</quantmin>
+    <quantmax>75</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_Green">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>1000</restock>
+    <quantmin>25</quantmin>
+    <quantmax>75</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_Black">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>1000</restock>
+    <quantmin>25</quantmin>
+    <quantmax>75</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_Deluxe">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>1000</restock>
+    <quantmin>25</quantmin>
+    <quantmax>75</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier34" />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_Deluxe_Camo">
+    <nominal>3</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>1000</restock>
+    <quantmin>25</quantmin>
+    <quantmax>75</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier34" />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_Empty">
+    <nominal>6</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_B_Empty">
+    <nominal>6</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_G_Empty">
+    <nominal>6</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_D_Empty">
+    <nominal>6</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier34" />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_Heatpack_DC_Empty">
+    <nominal>6</nominal>
+    <min>2</min>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier34" />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+	<type name="XS_FuelCan">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>28800</lifetime>
+    <restock>500</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier234" />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
 </types>

@@ -360,7 +360,7 @@
             }
         },
         "BreakingDoorsHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "BreakingDoorsRestrictedDoors": {
             "all": {
@@ -412,7 +412,7 @@
             "all": 0.0
         },
         "AttackPlayersUnconsciousHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "AttackPlayersUnconsciousHitsLimit": {
             "all": 5.0
@@ -1314,10 +1314,10 @@
             "all": 0
         },
         "SearchBodyWithoutGlovesBloodyHandsChancePercent": {
-            "all": 50.0
+            "all": 0
         },
         "SearchBodyWithoutMaskVomitChancePercent": {
-            "all": 10.0
+            "all": 0
         },
         "CanBeButchered": {
             "all": 1
@@ -1424,7 +1424,7 @@
             "all": 1
         },
         "ThrowingProjectilesHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "ThrowingProjectilesHandlerDamageMultiplier": {
             "all": 0.8999999761581421,
