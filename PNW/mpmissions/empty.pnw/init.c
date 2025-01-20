@@ -78,7 +78,17 @@ class CustomMission: MissionServer
 		
 		itemClothing = player.FindAttachmentBySlotName( "Legs" );
 		if ( itemClothing )
+		{
 			SetRandomHealth( itemClothing );
+
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "GW_Glock44" );
+			SetRandomHealth( itemEnt );
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "Mag_GW_Glock44_10Rnd" );
+			SetRandomHealth( itemEnt );
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "Mag_GW_Glock44_10Rnd" );
+			SetRandomHealth( itemEnt );
+
+		}
 		
 		itemClothing = player.FindAttachmentBySlotName( "Feet" );
 	}

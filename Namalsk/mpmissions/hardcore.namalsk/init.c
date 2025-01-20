@@ -98,12 +98,13 @@ class CustomMission: MissionServer
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "Heatpack" );
 			SetRandomHealth( itemEnt );
 
-			int throwDice = Math.RandomInt( 0, 2 );
-			if ( throwDice == 0 )
-				itemEnt = itemClothing.GetInventory().CreateInInventory( "dzn_tool_watch" );
-			else
-				itemEnt = itemClothing.GetInventory().CreateInInventory( "dzn_tool_watch2" );
-			player.SetQuickBarEntityShortcut( itemEnt, 2 );
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "GW_Glock44" );
+			SetRandomHealth( itemEnt );
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "Mag_GW_Glock44_10Rnd" );
+			SetRandomHealth( itemEnt );
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "Mag_GW_Glock44_10Rnd" );
+			SetRandomHealth( itemEnt );
+
 		}
 
 		// shoes

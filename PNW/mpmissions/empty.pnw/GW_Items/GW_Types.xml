@@ -29,6 +29,35 @@
 		<category name="explosives" />
 		<tag name="military" />
 	</type>
+	<type name="GW_Glock44">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>7</min>
+		<quantmin>10</quantmin>
+		<quantmax>40</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value user="Tier1" />
+		<category name="pistols" />
+		<tag name="civilian" />
+	</type>
+	<type name="Mag_GW_Glock44_10Rnd">
+		<nominal>5</nominal>
+		<min>3</min>
+		<lifetime>5400</lifetime>
+		<restock>300</restock>
+		<quantmin>10</quantmin>
+		<quantmax>25</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<usage />
+		<value user="Tier1" />
+		<category name="weapons" />
+		<tag name="civilian" />
+		<tag name="police" />
+	</type>
 <!-- MREs -->
 	<type name="MRE_Menu1">
 		<nominal>2</nominal>
