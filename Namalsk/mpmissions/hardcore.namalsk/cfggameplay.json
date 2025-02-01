@@ -24,8 +24,8 @@
             "holdBreathStaminaModifier": 1
         },
         "ShockHandlingData": {
-            "shockRefillSpeedConscious": 1,
-            "shockRefillSpeedUnconscious": 100,
+            "shockRefillSpeedConscious": 5,
+            "shockRefillSpeedUnconscious": 1,
             "allowRefillSpeedModifier": true
         },
         "MovementData": {
@@ -43,7 +43,7 @@
         }
     },
     "WorldsData": {
-        "lightingConfig": 0,
+        "lightingConfig": 222,
         "objectSpawnersArr": [],
         "environmentMinTemps": [
             -32,

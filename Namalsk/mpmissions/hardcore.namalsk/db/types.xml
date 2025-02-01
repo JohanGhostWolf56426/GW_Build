@@ -25,7 +25,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier8" />
+    <value user="Tier3" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -178,7 +178,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier9" />
+    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -3287,8 +3287,8 @@
   </type>
 <!-- NAMALSK - FOOD N DRINKS -->
   <type name="BoxCerealCrunchin">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3300,8 +3300,8 @@
     <category name="food" />
   </type>
   <type name="PowderedMilk">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3313,8 +3313,8 @@
     <category name="food" />
   </type>
   <type name="Rice">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3326,8 +3326,8 @@
     <category name="food" />
   </type>
   <type name="Zagorky">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3339,8 +3339,8 @@
     <category name="food" />
   </type>
   <type name="ZagorkyChocolate">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3352,8 +3352,8 @@
     <category name="food" />
   </type>
   <type name="ZagorkyPeanuts">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3365,8 +3365,8 @@
     <category name="food" />
   </type>
   <type name="SaltySticks">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3378,8 +3378,8 @@
     <category name="food" />
   </type>
   <type name="Crackers">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3391,8 +3391,8 @@
     <category name="food" />
   </type>
   <type name="Chips">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3530,8 +3530,8 @@
     <category name="food" />
   </type>
   <type name="BakedBeansCan">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3543,8 +3543,8 @@
     <category name="food" />
   </type>
   <type name="PeachesCan">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3556,8 +3556,8 @@
     <category name="food" />
   </type>
   <type name="SardinesCan">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3569,8 +3569,8 @@
     <category name="food" />
   </type>
   <type name="SpaghettiCan">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3582,8 +3582,8 @@
     <category name="food" />
   </type>
   <type name="TunaCan">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>4</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3608,8 +3608,8 @@
     <category name="food" />
   </type>
   <type name="DogFoodCan">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3621,8 +3621,8 @@
     <category name="food" />
   </type>
   <type name="CatFoodCan">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3634,8 +3634,8 @@
     <category name="food" />
   </type>
   <type name="PorkCan">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3647,8 +3647,8 @@
     <category name="food" />
   </type>
   <type name="Lunchmeat">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3660,8 +3660,8 @@
     <category name="food" />
   </type>
   <type name="Pajka">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3673,8 +3673,8 @@
     <category name="food" />
   </type>
   <type name="Pate">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3686,8 +3686,8 @@
     <category name="food" />
   </type>
   <type name="BrisketSpread">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3699,8 +3699,8 @@
     <category name="food" />
   </type>
   <type name="Marmalade">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>4</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3712,8 +3712,8 @@
     <category name="food" />
   </type>
   <type name="Honey">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>4</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
